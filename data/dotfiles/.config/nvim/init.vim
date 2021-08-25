@@ -76,6 +76,7 @@ Plug 'vim-ctrlspace/vim-ctrlspace'
 Plug 'sickill/vim-monokai'
 Plug 'morhetz/gruvbox'
 Plug 'altercation/vim-colors-solarized'
+Plug 'Lokaltog/neoranger'
 call plug#end()
 
 " 关联使用的python环境
@@ -355,8 +356,17 @@ nnoremap <silent> <Leader>l :CtrlSpace<CR>
 "let g:CtrlSpaceSaveWorkspaceOnSwitch = 1
 "let g:CtrlSpaceSaveWorkspaceOnExit = 1
 
+" neoranger配置
+" for setting ranger viewmode values
+let g:neoranger_viewmode='miller' " supported values are ['multipane', 'miller']
+
+" for setting any extra option passed to ranger params
+let g:neoranger_opts='--cmd="set show_hidden true"' " this line makes ranger show hidden files by default
+
 
 " 自定义命令
 command! Pformat :execute '!autopep8 --in-place --aggressive --ignore E402 --max-line-length=120 %'
 command! Jformat :execute '%!python -m json.tool'
 command! Cformat :execute '!clang-format -i %'
+command! Ra :execute 'Ranger'
+command! Rc :execute 'RangerCurrentFile'
