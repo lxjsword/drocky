@@ -109,3 +109,5 @@ alias ta="tmux a"
 export SHELL=/bin/zsh
 export PATH=$HOME/data/bin:$HOME/data/miniconda3/bin:$PATH
 export EDITOR=nvim
+export TERM=xterm-256color
+export TERMINFO=/usr/share/terminfo
