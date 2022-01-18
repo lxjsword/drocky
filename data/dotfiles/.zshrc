@@ -104,10 +104,17 @@ LANG=zh_CN.UTF-8
 alias vim=$HOME/data/nvim-linux64/bin/nvim
 alias ra=ranger
 alias ll="ls -alh"
+alias rm="rm -i"
 alias ta="tmux a"
+
+function ff()
+{
+    find . -name "*${1}*"
+}
 
 export SHELL=/bin/zsh
 export PATH=$HOME/data/bin:$HOME/data/miniconda3/bin:$PATH
 export EDITOR=nvim
 export TERM=xterm-256color
 export TERMINFO=/usr/share/terminfo
+export CHEATCOLOR=true

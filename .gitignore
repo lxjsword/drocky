@@ -131,35 +131,13 @@ dist
 .project
 .pydevproject
 
-mmsearchossmp
-mmsearchossmp/
-mmsearchossmp/*
-mmsearchbossweb/web/package-lock.json
-
 .idea
-
-mmsearchosscgi/web/config/index.js
-
-mmsearchosspublish/config/index.js
-
-mmsearchbossweb/web/dist
-mmsearchbossweb/web/dist/
-mmsearchbossweb/web/dist/*
-
-
-mmsearchbossweb/web
-mmsearchbossweb/web/
-mmsearchbossweb/web/*
-
-
 
 *.bak
 web.log.*
 .sessions
-
-!mmsearchosscgi/webstaticdev.tgz
-!mmsearchosscgi/websvrdev.tgz
-mmsearchosscgi/web/package-lock.json
 package-lock.json
+
+data/miniconda3/lib/python3.9/**/*.pyc
 
 pkg
