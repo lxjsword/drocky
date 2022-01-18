@@ -10,9 +10,9 @@
 [submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/LeaderF"]
 	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/LeaderF
 	url = https://github.com/Yggdroot/LeaderF.git
-[submodule "data/dotfiles/.config/nvim/plugged/neoranger.vim"]
-	path = data/dotfiles/.config/nvim/plugged/neoranger.vim
+[submodule "data/dotfiles/.config/nvim/plugged/neoranger"]
+	path = data/dotfiles/.config/nvim/plugged/neoranger
 	url = https://github.com/Lokaltog/neoranger.git
-[submodule "data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard.vim"]
-	path = data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard.vim
+[submodule "data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard"]
+	path = data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard
 	url = https://github.com/roxma/vim-tmux-clipboard.git
