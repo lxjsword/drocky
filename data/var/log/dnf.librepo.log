@@ -1,0 +1,240 @@
+2021-08-17T09:24:21+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:24:21+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:24:21+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:22+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:22+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:22+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:22+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:22+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:22+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:23+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:23+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:23+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:23+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:23+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:23+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:23+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:24+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:24+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:24+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:24+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:24+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:24+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:24+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:25+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:25+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:25+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:25+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:24:25+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:25+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:24:25+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:25:57+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:25:58+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:25:58+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:25:58+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:25:58+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:25:59+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:25:59+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:25:59+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:25:59+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:25:59+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:25:59+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:25:59+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:00+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:00+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:00+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:00+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:00+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:00+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:00+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:00+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:00+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:01+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:01+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:01+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:01+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:01+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:01+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:26:02+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:02+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:26:02+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T09:27:53+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:27:53+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:27:53+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:54+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:54+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:54+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:54+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:54+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:54+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:55+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:55+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:55+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:55+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:55+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:55+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:55+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:56+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:56+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:56+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:56+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:56+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:56+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:56+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:56+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:56+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:57+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:57+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:27:57+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:57+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:27:57+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:28:58+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:28:58+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:28:58+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:28:58+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:28:58+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:28:59+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:28:59+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:28:59+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:28:59+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:28:59+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:28:59+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:28:59+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:28:59+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:28:59+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:29:00+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:00+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:29:00+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:00+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:29:00+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:00+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:00+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:29:01+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:01+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:29:01+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:01+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:29:01+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:01+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:29:01+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:01+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:29:01+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-17T09:58:08+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:58:08+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T09:58:08+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:09+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:09+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:10+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:10+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:10+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:10+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:10+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:10+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:10+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:11+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:11+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:11+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:11+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:11+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:11+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:11+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:11+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:11+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:12+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:12+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:12+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:12+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:12+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:12+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T09:58:13+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:13+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T09:58:13+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.74.132)
+2021-08-17T10:00:26+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T10:00:26+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-17T10:00:26+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:27+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:27+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:27+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:27+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:27+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:27+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:28+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:29+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:29+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:29+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:29+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:29+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:29+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:29+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:30+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:30+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-17T10:00:30+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:30+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-17T10:00:30+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.110.132)
+2021-08-18T07:33:20+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-18T07:33:21+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-18T07:33:21+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:22+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:22+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:22+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:22+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:22+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:22+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:22+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:22+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:22+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:23+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:23+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:23+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:23+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:23+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:23+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:23+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:23+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:23+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:24+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:24+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:24+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:24+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:24+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:24+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:33:25+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:25+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:33:25+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:25+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-18T07:34:25+0000 INFO Librepo version: 1.12.0 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.61.1 OpenSSL/1.1.1g zlib/1.2.11 nghttp2/1.33.0)
+2021-08-18T07:34:25+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:25+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:25+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:26+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:26+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:26+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:26+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:26+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:26+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:26+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:27+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:27+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:27+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:27+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:28+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:28+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:28+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:29+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:29+0000 INFO Downloading: https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever
+2021-08-18T07:34:29+0000 INFO Error during transfer: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:29+0000 INFO Error while downloading: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
+2021-08-18T07:34:29+0000 WARNING LRO_MIRRORLISTURL processing failed: Status code: 404 for https://mirrors.rockylinux.org/mirrorlist?arch=x86_64&repo=AppStream-$releasever (IP: 151.101.230.132)
