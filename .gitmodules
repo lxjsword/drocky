@@ -16,3 +16,12 @@
 [submodule "data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard"]
 	path = data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard
 	url = https://github.com/roxma/vim-tmux-clipboard.git
+[submodule "data/dotfiles/.oh-my-zsh/plugins/zsh-autosuggestions"]
+	path = data/dotfiles/.oh-my-zsh/plugins/zsh-autosuggestions
+	url = git://github.com/zsh-users/zsh-autosuggestions
+[submodule "data/dotfiles/.oh-my-zsh/plugins/zsh-syntax-highlighting"]
+	path = data/dotfiles/.oh-my-zsh/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "data/dotfiles/.oh-my-zsh/plugins/tmux-yank"]
+	path = data/dotfiles/.oh-my-zsh/plugins/tmux-yank
+	url = https://github.com/tmux-plugins/tmux-yank
