@@ -1,0 +1,18 @@
+[submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/auto-pairs"]
+	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/coc.nvim"]
+	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/indentLine"]
+	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/LeaderF"]
+	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/LeaderF
+	url = https://github.com/Yggdroot/LeaderF.git
+[submodule "data/dotfiles/.config/nvim/plugged/neoranger.vim"]
+	path = data/dotfiles/.config/nvim/plugged/neoranger.vim
+	url = https://github.com/Lokaltog/neoranger.git
+[submodule "data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard.vim"]
+	path = data/dotfiles/.config/nvim/plugged/vim-tmux-clipboard.vim
+	url = https://github.com/roxma/vim-tmux-clipboard.git
