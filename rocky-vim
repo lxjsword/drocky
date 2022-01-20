@@ -3,7 +3,7 @@
 work_path=$(basename `pwd`)
 echo ${work_path}
 
-docker run -it --rm \
+docker run --privileged -it --rm \
 --name drocky-${work_path} \
 -h lxjsword \
 -w /root \
