@@ -1,8 +1,8 @@
-[submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/auto-pairs"]
-	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/auto-pairs
+[submodule "data/dotfiles/.config/nvim/plugged/auto-pairs"]
+	path = data/dotfiles/.config/nvim/plugged/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
-[submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/coc.nvim"]
-	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/coc.nvim
+[submodule "data/dotfiles/.config/nvim/plugged/coc.nvim"]
+	path = data/dotfiles/.config/nvim/plugged/coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
 [submodule "data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/indentLine"]
 	path = data/dotfiles/.config/nvim/plugged/data/dotfiles/.config/nvim/plugged/indentLine
