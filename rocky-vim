@@ -6,6 +6,7 @@ echo ${work_path}
 docker run --privileged -it --rm \
 --name drocky-${work_path} \
 -h lxjsword \
+--net=host \
 -w /root \
 -v $(pwd):/root/data/${work_path} \
 lxjsword/drocky:devbase \
