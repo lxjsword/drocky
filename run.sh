@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker run -it --rm \
+docker run --privileged -it --rm \
 --name drocky-${work_path} \
 -h lxjsword \
 -w /root \
