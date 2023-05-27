@@ -11,4 +11,4 @@ docker run --privileged -d \
 -w /home/${user} \
 -v $(pwd):/home/${user}/${work_path} \
 lxjsword/ws:devbase \
-/bin/zsh
+/usr/sbin/init
