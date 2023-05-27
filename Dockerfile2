@@ -1,0 +1,31 @@
+FROM rockylinux/rockylinux
+
+ARG user=ryanxjli
+
+RUN yum clean all && \
+yum update -y && \
+yum install -y sudo libnsl wget git gcc gcc-c++ gdb make ncurses-devel.x86_64 llvm-toolset.x86_64 libevent-devel zsh epel-release clang git-clang-format.x86_64 && \
+useradd --create-home --no-log-init --shell /bin/zsh ${user} && \
+usermod -u 1002 ${user} && usermod -G 0 ${user} && \
+echo "${user}:123456" | chpasswd && \
+echo "${user}	ALL=(ALL)	ALL" > /etc/sudoers
+
+WORKDIR /home/${user}
+
+USER ${user}
+
+COPY --chown=${user}:${user} data /home/${user}/data
+
+RUN rm -rf /home/${user}/.zshrc && \
+rm -rf /home/${user}/data/bin/node && \
+ln -s  /home/${user}/data/node-v14.17.5-linux-x64/bin/node /home/${user}/data/bin/node && \
+rm -rf /home/${user}/data/bin/npm && \
+ln -s  /home/${user}/data/node-v14.17.5-linux-x64/bin/npm /home/${user}/data/bin/npm && \
+ln -s /home/${user}/data/dotfiles/.zshrc /home/${user}/.zshrc && \
+ln -s /home/${user}/data/dotfiles/.config /home/${user}/.config && \
+ln -s /home/${user}/data/dotfiles/.tmux.conf /home/${user}/.tmux.conf && \
+ln -s /home/${user}/data/dotfiles/.tmux /home/${user}/.tmux && \
+ln -s /home/${user}/data/dotfiles/.oh-my-zsh /home/${user}/.oh-my-zsh && \
+ln -s /home/${user}/data/dotfiles/.clang-format /home/${user}/.clang-format
+
+CMD ["/bin/zsh"]

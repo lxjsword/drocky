@@ -1,0 +1,14 @@
+#!/bin/bash
+
+user=ryanxjli
+work_path=$(basename `pwd`)
+echo ${work_path}
+
+docker run --privileged -d \
+--name ws-daemon \
+--net=host \
+-h lxjsword \
+-w /home/${user} \
+-v $(pwd):/home/${user}/${work_path} \
+lxjsword/ws:devbase \
+/bin/zsh
