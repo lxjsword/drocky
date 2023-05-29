@@ -109,7 +109,7 @@ let g:asyncrun_runner.tmux = function('s:run_tmux')
 "let Tlist_Use_Horiz_Window=1
 
 " 关联使用的python环境
-let g:python3_host_prog="/root/data/miniconda3/bin/python"
+let g:python3_host_prog="~/data/miniconda3/bin/python"
 
 " nerdtree
 " 关闭NERDTree快捷键
@@ -185,7 +185,7 @@ let g:indentLine_char = '┊' " 用字符串代替默认的标示线
 
 " jedi-vim setting
 let g:jedi#auto_initialization = 1
-let g:jedi#environment_path = "/root/data/miniconda3/bin/python"
+let g:jedi#environment_path = "~/data/miniconda3/bin/python"
 
 if executable('clipboard-provider')
     let g:clipboard = {
